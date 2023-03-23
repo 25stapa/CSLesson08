@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\task54\task54.csproj" />
+    <ProjectReference Include="..\task56\task56.csproj" />
+    <ProjectReference Include="..\task58\task58.csproj" />
+    <ProjectReference Include="..\task62\task62.csproj" />
+  </ItemGroup>
 </Project>

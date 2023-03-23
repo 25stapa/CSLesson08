@@ -90,3 +90,5 @@ void SortToLower(int[,] array2D)
 SortToLower(array2D);
 Console.WriteLine("Sorted 2D array\n");
 PrintArray2D(array2D);
+
+Console.WriteLine();

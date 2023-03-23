@@ -8,7 +8,7 @@
 */
 
 // Declaration and initialization of a three-dimensional array.
-Console.WriteLine("Enter array parameters: x, y, z");    
+Console.WriteLine("Enter array parameters: x, y, z");
 int x = GetParameterArray3D("Enter the number x: ");
 int y = GetParameterArray3D("Enter the number y: ");
 int z = GetParameterArray3D("Enter the number z: ");
@@ -86,8 +86,6 @@ void PrintArray(int[,,] array3D)
             }
             Console.WriteLine();
         }
-        
+
     }
 }
-
-
